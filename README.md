@@ -1,5 +1,5 @@
 # spikes.angularjs
-## A shell maven project with an angularjs spike showing the use of ng-infinite-scroll\
+## A shell maven project with an angularjs spike showing the use of ng-infinite-scroll
 
 # How to run
 1. mvn jetty:run
